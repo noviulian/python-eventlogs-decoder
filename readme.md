@@ -1,8 +1,6 @@
 # use this
 
-```shell
-pip install virtualenv
-```
+<!-- create an env inside your directory/project folder/etc to avoid conficts -->
 
 ```shell
 python -m venv env
