@@ -11,7 +11,7 @@ python -m venv env
 source env/bin/activate
 
 # windows
-.\myenv\Scripts\activate
+.\env\Scripts\activate
 ```
 
 ```shell
