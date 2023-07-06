@@ -1,6 +1,6 @@
 # use this
 
-<!-- create an env inside your directory/project folder/etc to avoid conficts -->
+<!-- create an env inside your directory to avoid conficts -->
 
 ```shell
 python -m venv env
